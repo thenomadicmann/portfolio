@@ -2,7 +2,5 @@ node_modules/
 .cache/
 public
 .env
-.env.local
 .env.development
-.env.staging
 .env.production
